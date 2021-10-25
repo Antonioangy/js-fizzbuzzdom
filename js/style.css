@@ -8,7 +8,7 @@ h1 {
   }
 
 .quadrato {
-    background-color: #F0466F;
+    background-color: yellow;
     height: 100px;
     width: calc(90%/7);
     margin: 10px;
@@ -24,4 +24,7 @@ h1 {
 }
 #quadratomulti5 {
     background-color: #FFD166;
+}
+#quadratomulti15{
+    background-color:#F0466F;
 }
