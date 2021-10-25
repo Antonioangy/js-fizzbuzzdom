@@ -6,6 +6,10 @@ h1 {
     font-size: 100px;
     color: white;
   }
+#main{
+    justify-content: space-around;
+    margin: 0 auto;
+}
 
 .quadrato {
     background-color: yellow;
@@ -19,12 +23,12 @@ h1 {
 #quadratobase {
     background-color: #1389B2;
 }
-#quadratomulti3 {
+#fizz {
     background-color: #0BD6A1;
 }
-#quadratomulti5 {
+#buzz {
     background-color: #FFD166;
 }
-#quadratomultidi3e15{
+#fizzbuzz{
     background-color:#F0466F;
 }
