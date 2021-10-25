@@ -8,11 +8,14 @@ let fizzbuzz = "fizzbuzz"
 
 // per i multipli di 3,
 // per i multipli di 5
-for (let i = 1; i<=100; i+=1){
-    main.innerHTML += "<div class='quadrato d-flex flex-wrap'></div>";
-                  
+for (let i = 1; i<=100; i++){
+    // main.innerHTML += "<div class='quadrato d-flex flex-wrap'></div>";
 
-
+    if (i % 3 == 0) {
+        main.innerHTML += "<div class='quadrato d-flex flex-wrap fizz'></div>";
+    } else if (i % 5 == 0) {
+        main.innerHTML += "<div class='quadrato d-flex flex-wrap buzz'></div>";
+    } 
 }
 
 

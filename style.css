@@ -14,7 +14,7 @@ h1 {
 .quadrato {
     background-color: yellow;
     height: 100px;
-    width: calc(90%/7);
+    width: calc(94% / 8);
     margin: 10px;
     align-items: center;
     justify-content: center;
@@ -23,12 +23,12 @@ h1 {
 #quadratobase {
     background-color: #1389B2;
 }
-#fizz {
+.fizz {
     background-color: #0BD6A1;
 }
-#buzz {
+.buzz {
     background-color: #FFD166;
 }
-#fizzbuzz{
+.fizzbuzz{
     background-color:#F0466F;
 }
