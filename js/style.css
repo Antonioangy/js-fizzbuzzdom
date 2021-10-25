@@ -1,3 +1,27 @@
-body{
+body {
     background-color: #083B4C;
+}
+
+h1 {
+    font-size: 100px;
+    color: white;
+  }
+
+.quadrato {
+    background-color: #F0466F;
+    height: 100px;
+    width: calc(90%/7);
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+#quadratobase {
+    background-color: #1389B2;
+}
+#quadratomulti3 {
+    background-color: #0BD6A1;
+}
+#quadratomulti5 {
+    background-color: #FFD166;
 }
