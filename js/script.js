@@ -7,8 +7,10 @@ let buzz = "buzz"
 let fizzbuzz = "fizzbuzz"
 
 // per i multipli di 3,
-
-
 // per i multipli di 5
+for (let i = 3){
+    
+}
 
+if (quadrati %)
 // e per i valori che sono sia multipli di 3 che di 5.
